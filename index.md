@@ -10,6 +10,8 @@ We are group 4 in tutorial 5 of COMP/ENGN 6250.
 
 # Tool 1
 
+William John Brinkman and Alton F Sanders introduced many ethical standards from different schools in ethics in a computing culture. For example, consequentialism, act utilitarianism, contractarianism and so on. This psychological test helps you to recognize the moral schools that your subconscious is more inclined to. Then it gives you some useful suggestions to help you make more responsible choices.
+
 # Tool 2
 
 
