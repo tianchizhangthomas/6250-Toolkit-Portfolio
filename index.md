@@ -14,6 +14,7 @@ William John Brinkman and Alton F Sanders introduced many ethical standards from
 
 # Tool 2
 
+![diagram](IMG_3780.jpg)
 
 ## Welcome to GitHub Pages
 
